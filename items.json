@@ -9,32 +9,32 @@
           {
             "id": "1-1-1",
             "label": "바다",
-            "image": "images/beach.svg",
-            "imageStatus": "temporary"
+            "image": "images/1-1-1.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "1-1-2",
             "label": "산",
-            "image": "images/mountain.svg",
-            "imageStatus": "temporary"
+            "image": "images/1-1-2.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "1-1-3",
             "label": "공원",
-            "image": "images/park.svg",
-            "imageStatus": "temporary"
+            "image": "images/1-1-3.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "1-1-4",
             "label": "계곡",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/1-1-4.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "1-1-5",
             "label": "축제",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/1-1-5.webp",
+            "imageStatus": "ready"
           }
         ]
       },
