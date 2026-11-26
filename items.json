@@ -2,78 +2,1304 @@
   {
     "name": "여행지",
     "question": "어디에 가고 싶으세요?",
-    "items": [
+    "groups": [
       {
-        "id": "beach",
-        "label": "바다",
-        "image": "images/beach.svg"
+        "name": "자연 및 휴양",
+        "items": [
+          {
+            "id": "1-1-1",
+            "label": "바다",
+            "image": "images/beach.svg",
+            "imageStatus": "temporary"
+          },
+          {
+            "id": "1-1-2",
+            "label": "산",
+            "image": "images/mountain.svg",
+            "imageStatus": "temporary"
+          },
+          {
+            "id": "1-1-3",
+            "label": "공원",
+            "image": "images/park.svg",
+            "imageStatus": "temporary"
+          },
+          {
+            "id": "1-1-4",
+            "label": "계곡",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "1-1-5",
+            "label": "축제",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
       },
       {
-        "id": "mountain",
-        "label": "산",
-        "image": "images/mountain.svg"
+        "name": "관람 및 문화",
+        "items": [
+          {
+            "id": "1-2-1",
+            "label": "수족관",
+            "image": "images/aquarium.svg",
+            "imageStatus": "temporary"
+          },
+          {
+            "id": "1-2-2",
+            "label": "박물관",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "1-2-3",
+            "label": "미술관",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "1-2-4",
+            "label": "동물원",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "1-2-5",
+            "label": "식물원",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "1-2-6",
+            "label": "영화관",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "1-2-7",
+            "label": "공연장",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "1-2-8",
+            "label": "전통민속촌",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
       },
       {
-        "id": "park",
-        "label": "공원",
-        "image": "images/park.svg"
+        "name": "놀이 및 체험",
+        "items": [
+          {
+            "id": "1-3-1",
+            "label": "놀이공원",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "1-3-2",
+            "label": "워터파크",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "1-3-3",
+            "label": "목장",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "1-3-4",
+            "label": "캠핑장",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "1-3-5",
+            "label": "온천",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "1-3-6",
+            "label": "전망대",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "1-3-7",
+            "label": "케이블카",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
       },
       {
-        "id": "aquarium",
-        "label": "수족관",
-        "image": "images/aquarium.svg"
+        "name": "일상 외출",
+        "items": [
+          {
+            "id": "1-4-1",
+            "label": "전통시장",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "1-4-2",
+            "label": "대형마트",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "1-4-3",
+            "label": "백화점",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "1-4-4",
+            "label": "쇼핑몰",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "1-4-5",
+            "label": "음식점",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
       }
     ]
   },
   {
     "name": "음식",
     "question": "무엇을 먹고 싶으세요?",
-    "items": [
+    "groups": [
       {
-        "id": "rice",
-        "label": "밥",
-        "image": "images/rice.svg"
+        "name": "한식",
+        "items": [
+          {
+            "id": "2-1-1",
+            "label": "비빔밥",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-1-2",
+            "label": "불고기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-1-3",
+            "label": "삼겹살",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-1-4",
+            "label": "갈비",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-1-5",
+            "label": "삼계탕",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-1-6",
+            "label": "설렁탕",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-1-7",
+            "label": "갈비탕",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-1-8",
+            "label": "감자탕",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-1-9",
+            "label": "김치찌개",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-1-10",
+            "label": "된장찌개",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-1-11",
+            "label": "보쌈",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-1-12",
+            "label": "족발",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-1-13",
+            "label": "칼국수",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-1-14",
+            "label": "냉면",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-1-15",
+            "label": "김밥",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
       },
       {
-        "id": "noodles",
-        "label": "국수",
-        "image": "images/noodles.svg"
+        "name": "중식",
+        "items": [
+          {
+            "id": "2-2-1",
+            "label": "짜장면",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-2-2",
+            "label": "짬뽕",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-2-3",
+            "label": "탕수육",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-2-4",
+            "label": "볶음밥",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-2-5",
+            "label": "군만두",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-2-6",
+            "label": "찐만두",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-2-7",
+            "label": "잡채밥",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-2-8",
+            "label": "마파두부밥",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-2-9",
+            "label": "유산슬",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-2-10",
+            "label": "팔보채",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-2-11",
+            "label": "깐풍기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-2-12",
+            "label": "칠리새우",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-2-13",
+            "label": "크림새우",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-2-14",
+            "label": "마라탕",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-2-15",
+            "label": "꿔바로우",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-2-16",
+            "label": "양꼬치",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
       },
       {
-        "id": "pizza",
-        "label": "피자",
-        "image": "images/pizza.svg"
+        "name": "일식",
+        "items": [
+          {
+            "id": "2-3-1",
+            "label": "초밥",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-3-2",
+            "label": "회",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-3-3",
+            "label": "일식 돈가스",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-3-4",
+            "label": "우동",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-3-5",
+            "label": "메밀소바",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-3-6",
+            "label": "라멘",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-3-7",
+            "label": "카레라이스",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-3-8",
+            "label": "소고기덮밥",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-3-9",
+            "label": "연어덮밥",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-3-10",
+            "label": "장어덮밥",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-3-11",
+            "label": "모둠튀김",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-3-12",
+            "label": "타코야키",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-3-13",
+            "label": "오코노미야키",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-3-14",
+            "label": "가라아게",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-3-15",
+            "label": "샤부샤부",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
       },
       {
-        "id": "apple",
-        "label": "사과",
-        "image": "images/apple.svg"
+        "name": "양식",
+        "items": [
+          {
+            "id": "2-4-1",
+            "label": "피자",
+            "image": "images/pizza.svg",
+            "imageStatus": "temporary"
+          },
+          {
+            "id": "2-4-2",
+            "label": "햄버거",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-4-3",
+            "label": "스테이크",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-4-4",
+            "label": "치킨",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-4-5",
+            "label": "토마토 스파게티",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-4-6",
+            "label": "크림 스파게티",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-4-7",
+            "label": "리소토",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-4-8",
+            "label": "라자냐",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-4-9",
+            "label": "경양식 돈가스",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-4-10",
+            "label": "함박스테이크",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-4-11",
+            "label": "샌드위치",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-4-12",
+            "label": "핫도그",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-4-13",
+            "label": "감자튀김",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-4-14",
+            "label": "샐러드",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-4-15",
+            "label": "크림수프",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "2-4-16",
+            "label": "그라탱",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "간식",
+    "question": "어떤 간식을 먹고 싶으세요?",
+    "groups": [
+      {
+        "name": "분식",
+        "items": [
+          {
+            "id": "3-1-1",
+            "label": "떡볶이",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-1-2",
+            "label": "순대",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-1-3",
+            "label": "어묵",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-1-4",
+            "label": "핫도그",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-1-5",
+            "label": "튀김",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-1-6",
+            "label": "붕어빵",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-1-7",
+            "label": "호떡",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-1-8",
+            "label": "호빵",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
+      },
+      {
+        "name": "빵·디저트",
+        "items": [
+          {
+            "id": "3-2-1",
+            "label": "단팥빵",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-2-2",
+            "label": "크림빵",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-2-3",
+            "label": "소보로빵",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-2-4",
+            "label": "식빵",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-2-5",
+            "label": "케이크",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-2-6",
+            "label": "도넛",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-2-7",
+            "label": "와플",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-2-8",
+            "label": "떡",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
+      },
+      {
+        "name": "과자",
+        "items": [
+          {
+            "id": "3-3-1",
+            "label": "감자칩",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-3-2",
+            "label": "새우과자",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-3-3",
+            "label": "쿠키",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-3-4",
+            "label": "초콜릿",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-3-5",
+            "label": "젤리",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-3-6",
+            "label": "사탕",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-3-7",
+            "label": "팝콘",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-3-8",
+            "label": "초코파이",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
+      },
+      {
+        "name": "과일",
+        "items": [
+          {
+            "id": "3-4-1",
+            "label": "사과",
+            "image": "images/apple.svg",
+            "imageStatus": "temporary"
+          },
+          {
+            "id": "3-4-2",
+            "label": "배",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-4-3",
+            "label": "바나나",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-4-4",
+            "label": "딸기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-4-5",
+            "label": "수박",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-4-6",
+            "label": "귤",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-4-7",
+            "label": "포도",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-4-8",
+            "label": "복숭아",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
+      },
+      {
+        "name": "아이스크림",
+        "items": [
+          {
+            "id": "3-5-1",
+            "label": "소프트아이스크림",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-5-2",
+            "label": "막대 아이스크림",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-5-3",
+            "label": "콘 아이스크림",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-5-4",
+            "label": "팥빙수",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
+      },
+      {
+        "name": "음료",
+        "items": [
+          {
+            "id": "3-6-1",
+            "label": "우유",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-6-2",
+            "label": "바나나우유",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-6-3",
+            "label": "초코우유",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-6-4",
+            "label": "요구르트",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-6-5",
+            "label": "과일주스",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-6-6",
+            "label": "콜라",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-6-7",
+            "label": "사이다",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "3-6-8",
+            "label": "커피",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
       }
     ]
   },
   {
     "name": "활동",
-    "question": "무엇을 하고 싶으세요?",
-    "items": [
+    "question": "어떤 활동을 하고 싶으세요?",
+    "groups": [
       {
-        "id": "walk",
-        "label": "산책",
-        "image": "images/walk.svg"
+        "name": "신체 및 운동",
+        "items": [
+          {
+            "id": "4-1-1",
+            "label": "산책",
+            "image": "images/walk.svg",
+            "imageStatus": "temporary"
+          },
+          {
+            "id": "4-1-2",
+            "label": "체조",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-1-3",
+            "label": "수영",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-1-4",
+            "label": "자전거 타기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-1-5",
+            "label": "볼링",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-1-6",
+            "label": "탁구",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-1-7",
+            "label": "농구",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-1-8",
+            "label": "공놀이",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
       },
       {
-        "id": "music",
-        "label": "음악 듣기",
-        "image": "images/music.svg"
+        "name": "음악 및 문화",
+        "items": [
+          {
+            "id": "4-2-1",
+            "label": "음악 감상",
+            "image": "images/music.svg",
+            "imageStatus": "temporary"
+          },
+          {
+            "id": "4-2-2",
+            "label": "노래 부르기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-2-3",
+            "label": "춤추기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-2-4",
+            "label": "악기 연주",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-2-5",
+            "label": "TV 시청",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-2-6",
+            "label": "영화 감상",
+            "image": "images/movie.svg",
+            "imageStatus": "temporary"
+          },
+          {
+            "id": "4-2-7",
+            "label": "공연 관람",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-2-8",
+            "label": "책 읽기",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
       },
       {
-        "id": "paint",
-        "label": "그림 그리기",
-        "image": "images/paint.svg"
+        "name": "미술 및 창작",
+        "items": [
+          {
+            "id": "4-3-1",
+            "label": "그림 그리기",
+            "image": "images/paint.svg",
+            "imageStatus": "temporary"
+          },
+          {
+            "id": "4-3-2",
+            "label": "색칠하기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-3-3",
+            "label": "종이접기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-3-4",
+            "label": "점토 만들기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-3-5",
+            "label": "도자기 만들기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-3-6",
+            "label": "팔찌 만들기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-3-7",
+            "label": "공예품 만들기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-3-8",
+            "label": "사진 찍기",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
       },
       {
-        "id": "movie",
-        "label": "영화 보기",
-        "image": "images/movie.svg"
+        "name": "요리 및 음식 만들기",
+        "items": [
+          {
+            "id": "4-4-1",
+            "label": "김밥 만들기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-4-2",
+            "label": "샌드위치 만들기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-4-3",
+            "label": "피자 만들기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-4-4",
+            "label": "쿠키 만들기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-4-5",
+            "label": "빵 만들기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-4-6",
+            "label": "케이크 만들기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-4-7",
+            "label": "화채 만들기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-4-8",
+            "label": "주스 만들기",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
+      },
+      {
+        "name": "자연 및 동물 체험",
+        "items": [
+          {
+            "id": "4-5-1",
+            "label": "꽃 심기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-5-2",
+            "label": "식물 키우기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-5-3",
+            "label": "텃밭 가꾸기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-5-4",
+            "label": "농작물 수확",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-5-5",
+            "label": "동물 먹이주기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-5-6",
+            "label": "동물 교감",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-5-7",
+            "label": "낚시",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-5-8",
+            "label": "물고기 관찰",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
+      },
+      {
+        "name": "놀이 및 여가",
+        "items": [
+          {
+            "id": "4-6-1",
+            "label": "윷놀이",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-6-2",
+            "label": "퍼즐 맞추기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-6-3",
+            "label": "보드게임",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-6-4",
+            "label": "블록 쌓기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-6-5",
+            "label": "전자게임",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-6-6",
+            "label": "스마트폰 사용",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-6-7",
+            "label": "비눗방울 놀이",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-6-8",
+            "label": "다트 놀이",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
+      },
+      {
+        "name": "일상생활 및 지역사회",
+        "items": [
+          {
+            "id": "4-7-1",
+            "label": "쇼핑하기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-7-2",
+            "label": "장보기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-7-3",
+            "label": "외식하기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-7-4",
+            "label": "드라이브",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-7-5",
+            "label": "기차 타기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-7-6",
+            "label": "버스 타기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-7-7",
+            "label": "미용하기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-7-8",
+            "label": "옷 고르기",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
+      },
+      {
+        "name": "휴식 및 감각",
+        "items": [
+          {
+            "id": "4-8-1",
+            "label": "편안하게 쉬기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-8-2",
+            "label": "햇볕 쬐기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-8-3",
+            "label": "마사지 받기",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-8-4",
+            "label": "촉감 체험",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-8-5",
+            "label": "빛 체험",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-8-6",
+            "label": "향기 체험",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-8-7",
+            "label": "물 감각 체험",
+            "image": null,
+            "imageStatus": "pending"
+          },
+          {
+            "id": "4-8-8",
+            "label": "족욕",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
       }
     ]
   }
