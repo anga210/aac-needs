@@ -1,0 +1,80 @@
+[
+  {
+    "name": "여행지",
+    "question": "어디에 가고 싶으세요?",
+    "items": [
+      {
+        "id": "beach",
+        "label": "바다",
+        "image": "images/beach.svg"
+      },
+      {
+        "id": "mountain",
+        "label": "산",
+        "image": "images/mountain.svg"
+      },
+      {
+        "id": "park",
+        "label": "공원",
+        "image": "images/park.svg"
+      },
+      {
+        "id": "aquarium",
+        "label": "수족관",
+        "image": "images/aquarium.svg"
+      }
+    ]
+  },
+  {
+    "name": "음식",
+    "question": "무엇을 먹고 싶으세요?",
+    "items": [
+      {
+        "id": "rice",
+        "label": "밥",
+        "image": "images/rice.svg"
+      },
+      {
+        "id": "noodles",
+        "label": "국수",
+        "image": "images/noodles.svg"
+      },
+      {
+        "id": "pizza",
+        "label": "피자",
+        "image": "images/pizza.svg"
+      },
+      {
+        "id": "apple",
+        "label": "사과",
+        "image": "images/apple.svg"
+      }
+    ]
+  },
+  {
+    "name": "활동",
+    "question": "무엇을 하고 싶으세요?",
+    "items": [
+      {
+        "id": "walk",
+        "label": "산책",
+        "image": "images/walk.svg"
+      },
+      {
+        "id": "music",
+        "label": "음악 듣기",
+        "image": "images/music.svg"
+      },
+      {
+        "id": "paint",
+        "label": "그림 그리기",
+        "image": "images/paint.svg"
+      },
+      {
+        "id": "movie",
+        "label": "영화 보기",
+        "image": "images/movie.svg"
+      }
+    ]
+  }
+]
