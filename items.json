@@ -894,50 +894,50 @@
           {
             "id": "4-8-10",
             "label": "발 마사지",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-8-10.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-8-11",
             "label": "어깨 마사지",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-8-11.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-8-12",
             "label": "두피 마사지",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-8-12.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-8-13",
             "label": "피부관리",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-8-13.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-8-14",
             "label": "네일 관리",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-8-14.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-8-15",
             "label": "찜질방 이용",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-8-15.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-8-16",
             "label": "호텔에서 쉬기",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-8-16.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-8-17",
             "label": "숲 치유 체험",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-8-17.webp",
+            "imageStatus": "ready"
           }
         ]
       },
