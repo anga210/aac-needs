@@ -1204,45 +1204,9 @@
         "name": "휴식 및 감각",
         "items": [
           {
-            "id": "4-8-1",
-            "label": "편안하게 쉬기",
-            "image": "images/4-8-1.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-8-2",
-            "label": "햇볕 쬐기",
-            "image": "images/4-8-2.webp",
-            "imageStatus": "ready"
-          },
-          {
             "id": "4-8-3",
             "label": "마사지 받기",
             "image": "images/4-8-3.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-8-4",
-            "label": "촉감 체험",
-            "image": "images/4-8-4.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-8-5",
-            "label": "빛 체험",
-            "image": "images/4-8-5.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-8-6",
-            "label": "향기 체험",
-            "image": "images/4-8-6.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-8-7",
-            "label": "물 감각 체험",
-            "image": "images/4-8-7.webp",
             "imageStatus": "ready"
           },
           {
@@ -1250,12 +1214,6 @@
             "label": "족욕",
             "image": "images/4-8-8.webp",
             "imageStatus": "ready"
-          },
-          {
-            "id": "4-8-9",
-            "label": "모래 체험",
-            "image": null,
-            "imageStatus": "pending"
           }
         ]
       }
