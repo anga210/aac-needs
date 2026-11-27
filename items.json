@@ -39,8 +39,8 @@
           {
             "id": "1-1-6",
             "label": "휴양림",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/1-1-6.webp",
+            "imageStatus": "ready"
           }
         ]
       },
@@ -174,8 +174,8 @@
           {
             "id": "1-4-6",
             "label": "카페",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/1-4-6.webp",
+            "imageStatus": "ready"
           }
         ]
       }
@@ -281,20 +281,20 @@
           {
             "id": "2-1-16",
             "label": "오리구이",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/2-1-16.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "2-1-17",
             "label": "닭갈비",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/2-1-17.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "2-1-18",
             "label": "생선구이",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/2-1-18.webp",
+            "imageStatus": "ready"
           }
         ]
       },
@@ -607,14 +607,14 @@
           {
             "id": "3-1-9",
             "label": "군고구마",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/3-1-9.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "3-1-10",
             "label": "삶은 옥수수",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/3-1-10.webp",
+            "imageStatus": "ready"
           }
         ]
       },
@@ -976,8 +976,8 @@
           {
             "id": "4-6-9",
             "label": "투호",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-6-9.webp",
+            "imageStatus": "ready"
           }
         ]
       },
@@ -1052,7 +1052,7 @@
           {
             "id": "4-3-4",
             "label": "점토놀이",
-            "image": "images/4-3-4-combined.svg",
+            "image": "images/4-3-4.webp",
             "imageStatus": "ready"
           },
           {
@@ -1070,8 +1070,8 @@
           {
             "id": "4-3-9",
             "label": "스티커 붙이기",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-3-9.webp",
+            "imageStatus": "ready"
           }
         ]
       },
