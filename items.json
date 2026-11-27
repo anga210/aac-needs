@@ -1095,50 +1095,50 @@
           {
             "id": "4-5-1",
             "label": "꽃 심기",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-5-1.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-5-2",
             "label": "식물 키우기",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-5-2.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-5-3",
             "label": "텃밭 가꾸기",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-5-3.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-5-4",
             "label": "농작물 수확",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-5-4.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-5-5",
             "label": "동물 먹이주기",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-5-5.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-5-6",
             "label": "동물 교감",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-5-6.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-5-7",
             "label": "낚시",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-5-7.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-5-8",
             "label": "물고기 관찰",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-5-8.webp",
+            "imageStatus": "ready"
           }
         ]
       },
@@ -1148,20 +1148,20 @@
           {
             "id": "4-6-1",
             "label": "윷놀이",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-6-1.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-6-2",
             "label": "퍼즐 맞추기",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-6-2.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-6-3",
             "label": "보드게임",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-6-3.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-6-4",
@@ -1172,26 +1172,26 @@
           {
             "id": "4-6-5",
             "label": "전자게임",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-6-5.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-6-6",
             "label": "스마트폰 사용",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-6-6.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-6-7",
             "label": "비눗방울 놀이",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-6-7.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-6-8",
             "label": "다트 놀이",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-6-8.webp",
+            "imageStatus": "ready"
           }
         ]
       },
@@ -1201,50 +1201,50 @@
           {
             "id": "4-7-1",
             "label": "쇼핑하기",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-7-1.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-7-2",
             "label": "장보기",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-7-2.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-7-3",
             "label": "외식하기",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-7-3.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-7-4",
             "label": "드라이브",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-7-4.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-7-5",
             "label": "기차 타기",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-7-5.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-7-6",
             "label": "버스 타기",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-7-6.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-7-7",
             "label": "미용하기",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-7-7.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-7-8",
             "label": "옷 고르기",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-7-8.webp",
+            "imageStatus": "ready"
           }
         ]
       },
@@ -1254,50 +1254,50 @@
           {
             "id": "4-8-1",
             "label": "편안하게 쉬기",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-8-1.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-8-2",
             "label": "햇볕 쬐기",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-8-2.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-8-3",
             "label": "마사지 받기",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-8-3.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-8-4",
             "label": "촉감 체험",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-8-4.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-8-5",
             "label": "빛 체험",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-8-5.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-8-6",
             "label": "향기 체험",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-8-6.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-8-7",
             "label": "물 감각 체험",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-8-7.webp",
+            "imageStatus": "ready"
           },
           {
             "id": "4-8-8",
             "label": "족욕",
-            "image": null,
-            "imageStatus": "pending"
+            "image": "images/4-8-8.webp",
+            "imageStatus": "ready"
           }
         ]
       }
