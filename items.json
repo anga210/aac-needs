@@ -940,12 +940,6 @@
             "imageStatus": "ready"
           },
           {
-            "id": "4-2-5",
-            "label": "TV 시청",
-            "image": "images/4-2-5.webp",
-            "imageStatus": "ready"
-          },
-          {
             "id": "4-2-6",
             "label": "영화 감상",
             "image": "images/4-2-6.webp",
@@ -969,14 +963,8 @@
         "name": "미술 및 창작",
         "items": [
           {
-            "id": "4-3-1",
-            "label": "그림 그리기",
-            "image": "images/4-3-1.webp",
-            "imageStatus": "ready"
-          },
-          {
             "id": "4-3-2",
-            "label": "색칠하기",
+            "label": "색칠놀이",
             "image": "images/4-3-2.webp",
             "imageStatus": "ready"
           },
@@ -988,19 +976,13 @@
           },
           {
             "id": "4-3-4",
-            "label": "점토 만들기",
-            "image": "images/4-3-4.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-3-5",
-            "label": "도자기 만들기",
-            "image": "images/4-3-5.webp",
+            "label": "점토놀이",
+            "image": "images/4-3-4-combined.svg",
             "imageStatus": "ready"
           },
           {
             "id": "4-3-6",
-            "label": "팔찌 만들기",
+            "label": "비즈공예",
             "image": "images/4-3-6.webp",
             "imageStatus": "ready"
           },
@@ -1049,12 +1031,6 @@
             "id": "4-4-5",
             "label": "빵 만들기",
             "image": "images/4-4-5.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-4-6",
-            "label": "케이크 만들기",
-            "image": "images/4-4-6.webp",
             "imageStatus": "ready"
           },
           {
