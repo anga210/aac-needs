@@ -860,60 +860,47 @@
     "question": "어떤 활동을 하고 싶으세요?",
     "groups": [
       {
-        "name": "신체 및 운동",
+        "name": "문화",
         "items": [
           {
-            "id": "4-1-1",
-            "label": "산책",
-            "image": "images/4-1-1.webp",
+            "id": "4-2-6",
+            "label": "영화 감상",
+            "image": "images/4-2-6.webp",
             "imageStatus": "ready"
           },
           {
-            "id": "4-1-2",
-            "label": "체조",
-            "image": "images/4-1-2.webp",
+            "id": "4-2-7",
+            "label": "공연 관람",
+            "image": "images/4-2-7.webp",
             "imageStatus": "ready"
           },
           {
-            "id": "4-1-3",
-            "label": "수영",
-            "image": "images/4-1-3.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-1-4",
-            "label": "자전거 타기",
-            "image": "images/4-1-4.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-1-5",
-            "label": "볼링",
-            "image": "images/4-1-5.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-1-6",
-            "label": "탁구",
-            "image": "images/4-1-6.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-1-7",
-            "label": "농구",
-            "image": "images/4-1-7.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-1-8",
-            "label": "공 주고받기",
-            "image": "images/4-1-8.webp",
+            "id": "4-2-8",
+            "label": "책 읽기",
+            "image": "images/4-2-8.webp",
             "imageStatus": "ready"
           }
         ]
       },
       {
-        "name": "음악 및 문화",
+        "name": "휴식 및 감각",
+        "items": [
+          {
+            "id": "4-8-3",
+            "label": "마사지 받기",
+            "image": "images/4-8-3.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-8-8",
+            "label": "족욕",
+            "image": "images/4-8-8.webp",
+            "imageStatus": "ready"
+          }
+        ]
+      },
+      {
+        "name": "음악",
         "items": [
           {
             "id": "4-2-1",
@@ -937,159 +924,6 @@
             "id": "4-2-4",
             "label": "악기 연주",
             "image": "images/4-2-4.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-2-6",
-            "label": "영화 감상",
-            "image": "images/4-2-6.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-2-7",
-            "label": "공연 관람",
-            "image": "images/4-2-7.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-2-8",
-            "label": "책 읽기",
-            "image": "images/4-2-8.webp",
-            "imageStatus": "ready"
-          }
-        ]
-      },
-      {
-        "name": "미술 및 창작",
-        "items": [
-          {
-            "id": "4-3-2",
-            "label": "색칠놀이",
-            "image": "images/4-3-2.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-3-3",
-            "label": "종이접기",
-            "image": "images/4-3-3.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-3-4",
-            "label": "점토놀이",
-            "image": "images/4-3-4-combined.svg",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-3-6",
-            "label": "비즈공예",
-            "image": "images/4-3-6.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-3-8",
-            "label": "사진 찍기",
-            "image": "images/4-3-8.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-3-9",
-            "label": "스티커 붙이기",
-            "image": null,
-            "imageStatus": "pending"
-          }
-        ]
-      },
-      {
-        "name": "요리 및 음식 만들기",
-        "items": [
-          {
-            "id": "4-4-1",
-            "label": "김밥 만들기",
-            "image": "images/4-4-1.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-4-2",
-            "label": "샌드위치 만들기",
-            "image": "images/4-4-2.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-4-3",
-            "label": "피자 만들기",
-            "image": "images/4-4-3.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-4-4",
-            "label": "쿠키 만들기",
-            "image": "images/4-4-4.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-4-5",
-            "label": "빵 만들기",
-            "image": "images/4-4-5.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-4-7",
-            "label": "화채 만들기",
-            "image": "images/4-4-7.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-4-8",
-            "label": "주스 만들기",
-            "image": "images/4-4-8.webp",
-            "imageStatus": "ready"
-          }
-        ]
-      },
-      {
-        "name": "자연 및 동물 체험",
-        "items": [
-          {
-            "id": "4-5-1",
-            "label": "꽃 심기",
-            "image": "images/4-5-1.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-5-3",
-            "label": "텃밭 가꾸기",
-            "image": "images/4-5-3.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-5-4",
-            "label": "농작물 수확",
-            "image": "images/4-5-4.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-5-5",
-            "label": "동물 먹이주기",
-            "image": "images/4-5-5.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-5-6",
-            "label": "동물 교감",
-            "image": "images/4-5-6.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-5-7",
-            "label": "낚시",
-            "image": "images/4-5-7.webp",
-            "imageStatus": "ready"
-          },
-          {
-            "id": "4-5-8",
-            "label": "물고기 관찰",
-            "image": "images/4-5-8.webp",
             "imageStatus": "ready"
           }
         ]
@@ -1201,18 +1035,189 @@
         ]
       },
       {
-        "name": "휴식 및 감각",
+        "name": "미술 및 창작",
         "items": [
           {
-            "id": "4-8-3",
-            "label": "마사지 받기",
-            "image": "images/4-8-3.webp",
+            "id": "4-3-2",
+            "label": "색칠놀이",
+            "image": "images/4-3-2.webp",
             "imageStatus": "ready"
           },
           {
-            "id": "4-8-8",
-            "label": "족욕",
-            "image": "images/4-8-8.webp",
+            "id": "4-3-3",
+            "label": "종이접기",
+            "image": "images/4-3-3.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-3-4",
+            "label": "점토놀이",
+            "image": "images/4-3-4-combined.svg",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-3-6",
+            "label": "비즈공예",
+            "image": "images/4-3-6.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-3-8",
+            "label": "사진 찍기",
+            "image": "images/4-3-8.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-3-9",
+            "label": "스티커 붙이기",
+            "image": null,
+            "imageStatus": "pending"
+          }
+        ]
+      },
+      {
+        "name": "자연 및 동물 체험",
+        "items": [
+          {
+            "id": "4-5-1",
+            "label": "꽃 심기",
+            "image": "images/4-5-1.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-5-3",
+            "label": "텃밭 가꾸기",
+            "image": "images/4-5-3.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-5-4",
+            "label": "농작물 수확",
+            "image": "images/4-5-4.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-5-5",
+            "label": "동물 먹이주기",
+            "image": "images/4-5-5.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-5-6",
+            "label": "동물 교감",
+            "image": "images/4-5-6.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-5-7",
+            "label": "낚시",
+            "image": "images/4-5-7.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-5-8",
+            "label": "물고기 관찰",
+            "image": "images/4-5-8.webp",
+            "imageStatus": "ready"
+          }
+        ]
+      },
+      {
+        "name": "요리 및 음식 만들기",
+        "items": [
+          {
+            "id": "4-4-1",
+            "label": "김밥 만들기",
+            "image": "images/4-4-1.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-4-2",
+            "label": "샌드위치 만들기",
+            "image": "images/4-4-2.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-4-3",
+            "label": "피자 만들기",
+            "image": "images/4-4-3.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-4-4",
+            "label": "쿠키 만들기",
+            "image": "images/4-4-4.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-4-5",
+            "label": "빵 만들기",
+            "image": "images/4-4-5.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-4-7",
+            "label": "화채 만들기",
+            "image": "images/4-4-7.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-4-8",
+            "label": "주스 만들기",
+            "image": "images/4-4-8.webp",
+            "imageStatus": "ready"
+          }
+        ]
+      },
+      {
+        "name": "신체 및 운동",
+        "items": [
+          {
+            "id": "4-1-1",
+            "label": "산책",
+            "image": "images/4-1-1.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-1-2",
+            "label": "체조",
+            "image": "images/4-1-2.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-1-3",
+            "label": "수영",
+            "image": "images/4-1-3.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-1-4",
+            "label": "자전거 타기",
+            "image": "images/4-1-4.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-1-5",
+            "label": "볼링",
+            "image": "images/4-1-5.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-1-6",
+            "label": "탁구",
+            "image": "images/4-1-6.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-1-7",
+            "label": "농구",
+            "image": "images/4-1-7.webp",
+            "imageStatus": "ready"
+          },
+          {
+            "id": "4-1-8",
+            "label": "공 주고받기",
+            "image": "images/4-1-8.webp",
             "imageStatus": "ready"
           }
         ]
